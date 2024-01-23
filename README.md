@@ -3,5 +3,9 @@
 
  
  Plans for future updates:
+
+ 
  Add command-line arguments to set the target and ports;
+
+ 
  Add an option to scan the 1000 most used ports (like nmap)
